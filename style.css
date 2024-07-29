@@ -1,0 +1,29 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(180, 180, 190);
+}
+
+.headshot {
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    height: 20em;
+    width: 20em;
+
+
+}
+
+.worksummary {
+    box-sizing: border-box;
+    background-color: azure;
+    border: 100px rgb(69, 98, 187);
+    width: 300px;
+    padding: 25px;
+    
+
+}
